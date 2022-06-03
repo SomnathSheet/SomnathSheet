@@ -8,17 +8,17 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/SomnathSheet/SomnathSheet/blob/main/programer.gif">
 
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on : **Software Development**
 
-- 🌱 I’m currently learning **Agile software development on DuckCreek & Dot Net platform**
+- 🌱 I’m currently learning : **Agile software development on DuckCreek & Dot Net platform**
 
-- 👯 I’m looking to collaborate on **Site hosting**
+- 👯 I’m looking to collaborate on : **Site hosting**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about : **Full Stack Development**
 
-- 📫 How to reach me **sheetsomnath091998@gmail.com**
+- 📫 How to reach me : **sheetsomnath091998@gmail.com**
 
-- ⚡ Fun fact **I am too sarcastic about my life**
+- ⚡ Fun fact : **I am too sarcastic about my thoughts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
