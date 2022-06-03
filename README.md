@@ -37,3 +37,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somnathsheet&show_icons=true&locale=en&layout=compact" alt="somnathsheet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somnathsheet&show_icons=true&locale=en" alt="somnathsheet" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnathsheet&" alt="somnathsheet" /></p>
