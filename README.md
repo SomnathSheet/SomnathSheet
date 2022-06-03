@@ -1,12 +1,12 @@
-[![MasterHead]([https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Somnath Sheet</h1>
 <h3 align="center">Software Developer at Capgemini</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnathsheet&label=Profile%20views&color=0e75b6&style=flat" alt="somnathsheet" /> </p>
 
 
+<img align="right" alt="Coding" width="400" src="https://github.com/SomnathSheet/SomnathSheet/blob/main/programer.gif">
 
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif">
 
 - 🔭 I’m currently working on **Software Development**
 
