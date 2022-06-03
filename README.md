@@ -1,4 +1,4 @@
-[![MasterHead]()
+![MasterHead](https://github.com/SomnathSheet/SomnathSheet/blob/main/redesign.gif)
 <h1 align="center">Hi 👋, I'm Somnath Sheet</h1>
 <h3 align="center">Software Developer at Capgemini</h3>
 
